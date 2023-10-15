@@ -1,6 +1,6 @@
 # Automated-Language-Translator-App-using-Python
 Automated Language Translator App using Python
-
+#Code_for_python
 import tkinter as tk
 from tkinter import ttk
 from googletrans import Translator
